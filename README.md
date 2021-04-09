@@ -18,7 +18,7 @@ _Краткое описание семестрового проекта. Пре
 ## 忍イティサ
 
 | Фамилия Имя           | Вклад (%) | Титул                 |
-| :---                  |   ---:    |  :---                 |
+| :---:                 |   :---:   |  :---:                |
 | Semyon Sokolov        | 33        |  Raikage              |
 | Sonya Kurguskina      | 33        |  Mizukage             |
 | Zukhra Shagiakhmetova | 33        |  Hokage               |
