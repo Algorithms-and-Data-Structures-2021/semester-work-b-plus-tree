@@ -71,19 +71,6 @@ _Опишите процесс сборки проекта._
 git clone https://github.com/Algorithms-and-Data-Structures-2021/semester-work-template.git
 ```
 
-Для ручной сборки проекта в терминале введите:
-
-```shell
-# переход в папку с проектом
-cd C:\Users\username\asd-projects\semester-work-template
-
-# создание папки для файлов сборки (чтобы не засорять папку с проектом) 
-mkdir -p build && cd build 
-
-# сборка проекта
-cmake .. -DCMAKE_BUILD_TYPE=RelWithDebInfo && cmake --config RelWithDebInfo --build . 
-```
-
 #### Генерация тестовых данных
 
 _Опишите формат хранения (JSON, XML, CSV, YAML и т.д.) и процесс генерации тестовых данных._
